@@ -1,6 +1,3 @@
 # CMartinezReverseIt-7
 // Chris Martinez
-//10/19/22
-// Number Reverse - Revampt
-// GitHub Challenge
-// I was able to add validation on this project, when before the github challenge, I was unable to complete.
+ I was able to add validation on this project, as I've done to the other 8 program. Nothing else really enhanced besides validation at this time.
